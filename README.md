@@ -1,3 +1,7 @@
+# 2021년 Computer Vision - License Plate Detection
+
+영상 : https://www.youtube.com/watch?v=5vFUuW5KrNw&t=7s
+
 # PRCV2020 paper
 Our paper is included in PRCV2020 now! The paper is available in https://link.springer.com/chapter/10.1007/978-3-030-60639-8_25.
 # SLPNet_pytorch
